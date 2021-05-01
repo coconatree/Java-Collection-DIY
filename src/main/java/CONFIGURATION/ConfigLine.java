@@ -1,7 +1,6 @@
 package CONFIGURATION;
 
 import DATA_STRUCTURES.OrderedVector;
-import DATA_STRUCTURES.VECTOR;
 
 import LOGGER.Logger;
 import LOGGER.LoggerFactory;

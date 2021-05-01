@@ -2,7 +2,6 @@ package DATA_STRUCTURES;
 
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.List;
 
 import static MATHEMATICS.BASIC.AbsoluteValue.abs;
 

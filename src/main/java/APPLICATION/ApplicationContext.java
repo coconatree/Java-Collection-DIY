@@ -10,7 +10,7 @@ public class ApplicationContext
 
     @Getter
     @Setter
-    private String CONFIGURATION_PATH = "/home/spayki/Desktop/JavaDataStructuresGithub/JavaDataStructures/JAVA_LOGGER_CUSTOM/src/main/java/Application.prop";
+    private String CONFIGURATION_PATH = "/home/coocnattree/Desktop/JAVA_LOGGER_CUSTOM/src/Application.prop";
 
     @Getter
     private Config APPLICATION_CONFIG;

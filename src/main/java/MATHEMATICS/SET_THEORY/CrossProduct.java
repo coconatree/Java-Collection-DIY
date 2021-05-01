@@ -1,6 +1,5 @@
 package MATHEMATICS.SET_THEORY;
 
-import DATA_STRUCTURES.OrderedVector;
 import DATA_STRUCTURES.Pair;
 
 import java.util.Set;

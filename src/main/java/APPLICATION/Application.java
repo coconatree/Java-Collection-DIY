@@ -19,7 +19,7 @@ public class Application
     {
         if(this.APPLICATION_CONTEXT == null)
         {
-            LOGGER.LOG(ERROR, "APPLICATION CONTEXT CAN'T BE NULL - PLEASE SET THE CONTEXT BEFORE STARTING THE APPLICATION");
+            LOGGER.LOG(ERROR, "main.java.APPLICATION CONTEXT CAN'T BE NULL - PLEASE SET THE CONTEXT BEFORE STARTING THE main.java.APPLICATION");
             System.exit(-1);
         }
     }
